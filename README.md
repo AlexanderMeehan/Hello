@@ -1,3 +1,3 @@
 # Hello
 My First Repo,
-I cretaed it in my E-Portfolio Class 
+I created it in my E-Portfolio Class 
